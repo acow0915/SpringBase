@@ -1,0 +1,1 @@
+insert into ACCOUNT (name, age) values ('a', 20);
